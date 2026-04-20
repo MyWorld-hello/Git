@@ -16,4 +16,5 @@ hello Git
 hello Git
 hello Git
 hello Git master text
+hello Git hot-fix
 hello Git
